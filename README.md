@@ -14,8 +14,8 @@ A web application built with Streamlit that uses advanced AI models to provide a
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/car-repair-chatbot.git
-    cd car-repair-chatbot
+    git clone https://github.com/Raghul-18/Chatbot.git
+    cd Chatbot
     ```
 
 2. **Create and activate a virtual environment**:
