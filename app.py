@@ -82,7 +82,7 @@ if 'selected_chat' not in st.session_state:
     st.session_state['selected_chat'] = None
 
 # Configure the Gemini model with your API key
-genai.configure(api_key=os.environ.get("API_KEY", "AIzaSyDWHxkoxLS-MqE-CKqvyogOFP2u6HvPSDc"))
+genai.configure(api_key=os.environ.get("API_KEY", "API KEY HERE"))
 
 # Initialize the Gemini model
 model = genai.GenerativeModel("gemini-1.5-flash")
