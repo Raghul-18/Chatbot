@@ -1,0 +1,5 @@
+streamlit==1.22.0
+Pillow==10.0.0
+torch==2.0.1
+diffusers==0.16.0
+google-generativeai==0.0.1
